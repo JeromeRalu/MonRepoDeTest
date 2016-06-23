@@ -1,10 +1,8 @@
 Sites à scanner : 
 - vogages-sncf.com
 
-
 Titre de l'application : 
 Resaspi
-
 
 Technologies web
 - Servlet
@@ -12,3 +10,4 @@ Technologies web
 
 Application lourde :
 Technologie Swing
+
