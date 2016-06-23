@@ -9,3 +9,6 @@ Resaspi
 Technologies web
 - Servlet
 - jsf
+
+Application lourde :
+Technologie Swing
