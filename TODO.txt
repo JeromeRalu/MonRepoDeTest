@@ -4,3 +4,7 @@ Sites à scanner :
 
 Titre de l'application : 
 Resaspi
+
+
+Technologies web
+- Servlet
