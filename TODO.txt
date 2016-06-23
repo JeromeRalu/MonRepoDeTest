@@ -8,3 +8,4 @@ Resaspi
 
 Technologies web
 - Servlet
+- jsf
